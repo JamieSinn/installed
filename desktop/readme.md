@@ -13,7 +13,7 @@
 - f.lux
 - Filezilla
 - GameMaker 
-- <NINTENDO DEV TOOL>
+- \<NINTENDO DEV TOOL\>
 - GitHub
 - Go Programming Language
 - Google Chrome
@@ -28,7 +28,7 @@
 - Minecraft
 - MIRC
 - Mozilla Firefox
-- <NINTENDO DEV TOOL>
+- \<NINTENDO DEV TOOL\>
 - NotePad++
 - Python
 - PowerGREP
