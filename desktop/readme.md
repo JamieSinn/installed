@@ -1,0 +1,54 @@
+# Desktop Software
+
+- Adobe CS 6
+- Autodesk 3DS Max 2016
+- Atom
+- CCleaner
+- Core Temp
+- CPU-ID
+- DAEMON Tools Pro
+- Display Fusion
+- Duo 2FA Login
+- Dxtory
+- f.lux
+- Filezilla
+- GameMaker 
+- <NINTENDO DEV TOOL>
+- GitHub
+- Go Programming Language
+- Google Chrome
+- IntelliJ IDEA 15
+- Java
+- Jetbrains Phpstorm
+- Jetbrains Pycharm
+- Lastpass
+- .NET
+- MS Office 2013
+- MS Visual Studio 2012 Pro
+- Minecraft
+- MIRC
+- Mozilla Firefox
+- <NINTENDO DEV TOOL>
+- NotePad++
+- Python
+- PowerGREP
+- Rainmeter
+- <SCE DEV TOOLS>
+- Slack
+- Spotify
+- Solidworks
+- SmartTTY
+- Sublime Text 3
+- Steam
+- Teamspeak 3
+- Teamviewer 10
+- Unity3D 
+  - Console versions
+- VSphere CLI
+- VSphere Client 6.0
+- WinDirStat
+- WinRar
+- Xamarin
+- YubiKey
+
+
