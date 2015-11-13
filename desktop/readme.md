@@ -33,7 +33,7 @@
 - Python
 - PowerGREP
 - Rainmeter
-- <SCE DEV TOOLS>
+- \<SCE DEV TOOLS\>
 - Slack
 - Spotify
 - Solidworks
