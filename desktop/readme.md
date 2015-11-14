@@ -1,54 +1,52 @@
 # Desktop Software
 
 - Adobe CS 6
-- Autodesk 3DS Max 2016
-- Atom
-- CCleaner
-- Core Temp
-- CPU-ID
-- DAEMON Tools Pro
-- Display Fusion
-- Duo 2FA Login
-- Dxtory
-- f.lux
-- Filezilla
-- GameMaker 
-- \<NINTENDO DEV TOOL\>
-- GitHub
-- Go Programming Language
-- Google Chrome
-- IntelliJ IDEA 15
-- Java
-- Jetbrains Phpstorm
-- Jetbrains Pycharm
-- Lastpass
-- .NET
-- MS Office 2013
-- MS Visual Studio 2012 Pro
-- Minecraft
-- MIRC
-- Mozilla Firefox
-- \<NINTENDO DEV TOOL\>
-- NotePad++
-- Python
-- PowerGREP
-- Rainmeter
+- [Autodesk 3DS Max 2016](http://www.autodesk.com/education/free-software/3ds-max)
+- [Atom](https://atom.io/download/windows)
+- [CCleaner](https://www.piriform.com/ccleaner/download/professional)
+- [Core Temp](http://www.alcpu.com/CoreTemp/Core-Temp-setup.exe)
+- [CPU-ID](http://www.cpuid.com/softwares/cpu-z.html)
+- [DAEMON Tools Pro](https://www.daemon-tools.cc/products/dtproAdv#install)
+- [Display Fusion](https://www.binaryfortress.com/Data/Download/?package=displayfusion&log=101)
+- [Duo 2FA Login](https://www.duosecurity.com/docs/rdp)
+- [Dxtory](http://exkode.com/dxtory-downloads-en.html)
+- [f.lux](https://justgetflux.com/dlwin.html)
+- [Filezilla](http://sourceforge.net/projects/filezilla/files/FileZilla_Client/3.14.1/FileZilla_3.14.1_win64-setup.exe/download?accel_key=57%3A1447526348%3Ahttps%253A//filezilla-project.org/download.php%253Ftype%253Dclient%3A2278db94%24db5e82f878aa283b13b316f12d2941f9536d80ac&click_id=fd553f34-8afe-11e5-864b-0200ac1d1da0&source=accel)
+- [GameMaker](http://www.yoyogames.com/download/studio/earlyaccess)
+- \<NINTENDO DEV TOOLs\>
+- [GitHub](https://github-windows.s3.amazonaws.com/GitHubSetup.exe)
+- [Go Programming Language](https://storage.googleapis.com/golang/go1.5.1.windows-amd64.msi)
+- [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html#)
+- [IntelliJ IDEA 15](https://download.jetbrains.com/idea/ideaIU-15.0.1.exe)
+- [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- [Jetbrains Phpstorm](https://download.jetbrains.com/webide/PhpStorm-10.0.1.exe)
+- [Jetbrains Pycharm](https://download.jetbrains.com/python/pycharm-professional-5.0.1.exe)
+- [Lastpass](https://lastpass.com/download/cdn/lastpass_x64.exe)
+- [.NET](https://ninite.com/.net4.6/ninite.exe)
+- MS Office 2013 - MSDN
+- MS Visual Studio 2012 Pro - MSDN
+- [Minecraft](https://launcher.mojang.com/download/MinecraftInstaller.msi)
+- [MIRC](http://www.mirc.com/get.php)
+- [Mozilla Firefox](https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US)
+- [NotePad++](https://ninite.com/notepadplusplus/ninite.exe)
+- [Python](https://www.python.org/ftp/python/3.5.0/python-3.5.0.exe)
+- PowerGREP - NAS
 - \<SCE DEV TOOLS\>
-- Slack
-- Spotify
-- Solidworks
-- SmartTTY
-- Sublime Text 3
+- [Slack](https://slack.com/ssb/download-win)
+- [Spotify](https://www.spotify.com/ca-en/download/windows/)
+- Solidworks - NAS
+- [SmartTTY](http://sysprogs.com/files/SmarTTY/SmarTTY-2.2.msi)
+- [Sublime Text 3](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%20Build%203083%20Setup.exe)
 - Steam
-- Teamspeak 3
-- Teamviewer 10
-- Unity3D 
-  - Console versions
-- VSphere CLI
-- VSphere Client 6.0
-- WinDirStat
-- WinRar
-- Xamarin
-- YubiKey
+- [Teamspeak 3](http://www.teamspeak.com/downloads#)
+- [Teamviewer 10](http://download.teamviewer.com/download/TeamViewer_Setup_en.exe)
+- [Unity3D ](http://unity3d.com/get-unity/download?thank-you=update&download_nid=20153&os=Win)
+  - Console versions - Private.
+- VSphere CLI - VMware
+- VSphere Client 6.0 - VMware
+- [WinDirStat](http://prdownloads.sourceforge.net/windirstat/windirstat1_1_2_setup.exe)
+- [WinRar](http://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-521.exe)
+- [Xamarin](https://store.xamarin.com/account/my/subscription/installer?os=win)
+- YubiKey - opt.
 
 
